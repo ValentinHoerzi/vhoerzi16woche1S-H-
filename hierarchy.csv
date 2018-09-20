@@ -1,0 +1,180 @@
+Wirtschaftssektor;Branche;Gruppe;Sparte
+Rohstoffe;Land- & Forstwirtschaft;Landwirtschaft;Pflanzen
+Rohstoffe;Land- & Forstwirtschaft;Landwirtschaft;Tierhaltung
+Rohstoffe;Land- & Forstwirtschaft;Landwirtschaft;Ökologische Landwirtschaft
+Rohstoffe;Land- & Forstwirtschaft;Landwirtschaft;Sonstige
+Rohstoffe;Land- & Forstwirtschaft;Forstwirtschaft;Sonstige
+Rohstoffe;Land- & Forstwirtschaft;Fischerei;Sonstige
+Rohstoffe;Land- & Forstwirtschaft;Sonstige;Sonstige
+Rohstoffe;Bergbau;Sand, Ton & Steine;Sonstige
+Rohstoffe;Bergbau;Erze;Sonstige
+Rohstoffe;Bergbau;Energiequellen;Kohle
+Rohstoffe;Bergbau;Energiequellen;ErdÖl
+Rohstoffe;Bergbau;Energiequellen;Erdgas
+Rohstoffe;Bergbau;Energiequellen;Uran
+Rohstoffe;Bergbau;Energiequellen;Sonstige
+Rohstoffe;Bergbau;Edelmetalle;Sonstige
+Rohstoffe;Bergbau;Seltene Erden;Sonstige
+Rohstoffe;Bergbau;Sonstige;Sonstige
+Rohstoffe;Sonstige;Sonstige;Sonstige
+Industrie;Produktion;Ernährung;Pflanzliche Lebensmittel
+Industrie;Produktion;Ernährung;Tierische Lebensmittel
+Industrie;Produktion;Ernährung;Bio-Lebensmittel
+Industrie;Produktion;Ernährung;Tiefkühlkost
+Industrie;Produktion;Ernährung;Getränke
+Industrie;Produktion;Ernährung;Genussmittel
+Industrie;Produktion;Ernährung;Futtermittel
+Industrie;Produktion;Ernährung;Sonstige
+Industrie;Produktion;Haushaltswaren;Textilien
+Industrie;Produktion;Haushaltswaren;Bekleidung
+Industrie;Produktion;Haushaltswaren;Möbel
+Industrie;Produktion;Haushaltswaren;Haushaltsgeräte
+Industrie;Produktion;Haushaltswaren;Mobile Computing
+Industrie;Produktion;Haushaltswaren;Unterhaltungselektronik
+Industrie;Produktion;Haushaltswaren;Spielzeug
+Industrie;Produktion;Haushaltswaren;Sportausrüstung
+Industrie;Produktion;Haushaltswaren;Uhren & Schmuck
+Industrie;Produktion;Haushaltswaren;Sonstige
+Industrie;Produktion;Holz;Holzwerkstoffe
+Industrie;Produktion;Holz;Papier
+Industrie;Produktion;Holz;Sonstige
+Industrie;Produktion;Glas, Keramik & Steine;Glas
+Industrie;Produktion;Glas, Keramik & Steine;Keramik
+Industrie;Produktion;Glas, Keramik & Steine;Steine
+Industrie;Produktion;Glas, Keramik & Steine;Zement
+Industrie;Produktion;Glas, Keramik & Steine;Schleifmittel
+Industrie;Produktion;Glas, Keramik & Steine;Sonstige
+Industrie;Produktion;Metall;Metallerzeugung
+Industrie;Produktion;Metall;Metallverarbeitung
+Industrie;Produktion;Metall;Waffen & Munition
+Industrie;Produktion;Metall;Sonstige
+Industrie;Produktion;Chemie;Chemikalien
+Industrie;Produktion;Chemie;Düngemittel
+Industrie;Produktion;Chemie;Brennstoffe
+Industrie;Produktion;Chemie;Kosmetika
+Industrie;Produktion;Chemie;Pharmazeutika
+Industrie;Produktion;Chemie;Polymere
+Industrie;Produktion;Chemie;Sonstige
+Industrie;Produktion;Maschinenbau;Sonstige
+Industrie;Produktion;Fahrzeugbau;Kraftfahrzeuge
+Industrie;Produktion;Fahrzeugbau;Schiffbau
+Industrie;Produktion;Fahrzeugbau;Schienenfahrzeuge
+Industrie;Produktion;Fahrzeugbau;Luft- & Raumfahrt
+Industrie;Produktion;Fahrzeugbau;Sonstige
+Industrie;Produktion;Elektrotechnik;Energie- & Antriebstechnik
+Industrie;Produktion;Elektrotechnik;Elektronik
+Industrie;Produktion;Elektrotechnik;Automatisierung
+Industrie;Produktion;Elektrotechnik;Telekommunikation
+Industrie;Produktion;Elektrotechnik;Computer
+Industrie;Produktion;Elektrotechnik;Sonstige
+Industrie;Produktion;Medizintechnik;Sonstige
+Industrie;Produktion;Sonstige;Sonstige
+Industrie;Ver- & Entsorgung;Energieversorgung;Fossile Energie
+Industrie;Ver- & Entsorgung;Energieversorgung;Erneuerbare Energie
+Industrie;Ver- & Entsorgung;Energieversorgung;Sonstige
+Industrie;Ver- & Entsorgung;Wasserversorgung;Sonstige
+Industrie;Ver- & Entsorgung;Abwasserentsorgung;Sonstige
+Industrie;Ver- & Entsorgung;Abfallentsorgung;Sonstige
+Industrie;Ver- & Entsorgung;Sonstige;Sonstige
+Industrie;Bauwirtschaft;Hochbau;Sonstige
+Industrie;Bauwirtschaft;Tiefbau;Sonstige
+Industrie;Bauwirtschaft;Baustellenarbeiten;Sonstige
+Industrie;Bauwirtschaft;Sonstige;Sonstige
+Industrie;Sonstige;Sonstige;Sonstige
+Dienstleistungen;Handel;Großhandel;Handelsvermittlung
+Dienstleistungen;Handel;Großhandel;Rohstoffe
+Dienstleistungen;Handel;Großhandel;Lebensmittel
+Dienstleistungen;Handel;Großhandel;Haushaltswaren
+Dienstleistungen;Handel;Großhandel;Halbfabrikate
+Dienstleistungen;Handel;Großhandel;Chemische Produkte
+Dienstleistungen;Handel;Großhandel;Maschinen
+Dienstleistungen;Handel;Großhandel;Fahrzeuge
+Dienstleistungen;Handel;Großhandel;Elektrotechnik
+Dienstleistungen;Handel;Großhandel;Medizintechnik
+Dienstleistungen;Handel;Großhandel;Baustoffe
+Dienstleistungen;Handel;Großhandel;Abfall
+Dienstleistungen;Handel;Großhandel;Sonstige
+Dienstleistungen;Handel;Einzelhandel;Nahrungsmittel
+Dienstleistungen;Handel;Einzelhandel;Textilien
+Dienstleistungen;Handel;Einzelhandel;Bekleidung
+Dienstleistungen;Handel;Einzelhandel;Möbel
+Dienstleistungen;Handel;Einzelhandel;Haushaltsgeräte
+Dienstleistungen;Handel;Einzelhandel;Mobile Computing
+Dienstleistungen;Handel;Einzelhandel;Unterhaltungselektronik
+Dienstleistungen;Handel;Einzelhandel;Spielzeug
+Dienstleistungen;Handel;Einzelhandel;Sportausrüstung
+Dienstleistungen;Handel;Einzelhandel;Uhren & Schmuck
+Dienstleistungen;Handel;Einzelhandel;Bücher & Zeitschriften
+Dienstleistungen;Handel;Einzelhandel;Brennstoffe
+Dienstleistungen;Handel;Einzelhandel;Kosmetik
+Dienstleistungen;Handel;Einzelhandel;Apotheken
+Dienstleistungen;Handel;Einzelhandel;Fahrzeuge
+Dienstleistungen;Handel;Einzelhandel;Pflanzen
+Dienstleistungen;Handel;Einzelhandel;Tiere
+Dienstleistungen;Handel;Einzelhandel;Baustoffe
+Dienstleistungen;Handel;Einzelhandel;Fair Trade
+Dienstleistungen;Handel;Einzelhandel;Sonstige
+Dienstleistungen;Handel;Sonstige;Sonstige
+Dienstleistungen;Verkehr;Landtransport;Sonstige
+Dienstleistungen;Verkehr;Schifffahrt;Sonstige
+Dienstleistungen;Verkehr;Luftfahrt;Sonstige
+Dienstleistungen;Verkehr;Lagerhaltung;Sonstige
+Dienstleistungen;Verkehr;Postdienste;Sonstige
+Dienstleistungen;Verkehr;Sonstige;Sonstige
+Dienstleistungen;Tourismus & Freizeit;Beherbergung;Sonstige
+Dienstleistungen;Tourismus & Freizeit;Gastronomie;Sonstige
+Dienstleistungen;Tourismus & Freizeit;Catering;Sonstige
+Dienstleistungen;Tourismus & Freizeit;Reisebüros;Sonstige
+Dienstleistungen;Tourismus & Freizeit;Freizeitparks;Sonstige
+Dienstleistungen;Tourismus & Freizeit;Fitnessstudios;Sonstige
+Dienstleistungen;Tourismus & Freizeit;Spiel- & Lotteriewesen;Sonstige
+Dienstleistungen;Tourismus & Freizeit;Sonstige;Sonstige
+Dienstleistungen;Information & Kommunikation;Verlage;Sonstige
+Dienstleistungen;Information & Kommunikation;Rundfunk;Sonstige
+Dienstleistungen;Information & Kommunikation;Film & Fernsehen;Sonstige
+Dienstleistungen;Information & Kommunikation;Musik;Sonstige
+Dienstleistungen;Information & Kommunikation;Telekommunikation;Sonstige
+Dienstleistungen;Information & Kommunikation;IT-Dienstleistungen;Sonstige
+Dienstleistungen;Information & Kommunikation;Werbung & Marktforschung;Sonstige
+Dienstleistungen;Information & Kommunikation;Sonstige;Sonstige
+Dienstleistungen;Banken & Versicherungen;Finanzdienstleistungen;Sonstige
+Dienstleistungen;Banken & Versicherungen;Ethisches Investment;Sonstige
+Dienstleistungen;Banken & Versicherungen;Versicherungen;Sonstige
+Dienstleistungen;Banken & Versicherungen;Sonstige;Sonstige
+Dienstleistungen;Immobilien;Kauf & Verkauf;Sonstige
+Dienstleistungen;Immobilien;Vermietung & Verpachtung;Sonstige
+Dienstleistungen;Immobilien;Vermittlung;Sonstige
+Dienstleistungen;Immobilien;Verwaltung;Sonstige
+Dienstleistungen;Immobilien;Gebäudedienstleister;Sonstige
+Dienstleistungen;Immobilien;Gaten- & Landschaftsbau;Sonstige
+Dienstleistungen;Immobilien;Sonstige;Sonstige
+Dienstleistungen;Öffentlicher Dienst;Verwaltung;Sonstige
+Dienstleistungen;Öffentlicher Dienst;Sozialversicherung;Sonstige
+Dienstleistungen;Öffentlicher Dienst;Verteidigung;Sonstige
+Dienstleistungen;Öffentlicher Dienst;Sonstige;Sonstige
+Dienstleistungen;Bildung & Forschung;Kindergärten & Vorschulen;Sonstige
+Dienstleistungen;Bildung & Forschung;Schulen;Sonstige
+Dienstleistungen;Bildung & Forschung;Hochschulen;Sonstige
+Dienstleistungen;Bildung & Forschung;Erziehung;Sonstige
+Dienstleistungen;Bildung & Forschung;Bibliotheken & Museen;Sonstige
+Dienstleistungen;Bildung & Forschung;Forschung & Entwicklung;Sonstige
+Dienstleistungen;Bildung & Forschung;Kunst;Sonstige
+Dienstleistungen;Bildung & Forschung;Sonstige;Sonstige
+Dienstleistungen;Medizin & Gesundheit;Krankenhäuser;Sonstige
+Dienstleistungen;Medizin & Gesundheit;Ärzte;Sonstige
+Dienstleistungen;Medizin & Gesundheit;Pflegeheime;Sonstige
+Dienstleistungen;Medizin & Gesundheit;Altenheime;Sonstige
+Dienstleistungen;Medizin & Gesundheit;Veterinärwesen;Sonstige
+Dienstleistungen;Medizin & Gesundheit;Sonstige;Sonstige
+Dienstleistungen;Sonstige;Recht- & Steuerberatung;Sonstige
+Dienstleistungen;Sonstige;Unternehmensberatung;Sonstige
+Dienstleistungen;Sonstige;Architekten;Sonstige
+Dienstleistungen;Sonstige;Vermietung beweglicher Güter;Sonstige
+Dienstleistungen;Sonstige;Arbeitsvermittler;Sonstige
+Dienstleistungen;Sonstige;Sicherheitsdienste;Sonstige
+Dienstleistungen;Sonstige;Call Center;Sonstige
+Dienstleistungen;Sonstige;Veranstaltungsplanung;Sonstige
+Dienstleistungen;Sonstige;Interessenvertretungen;Sonstige
+Dienstleistungen;Sonstige;Reparatur & Installation;Sonstige
+Dienstleistungen;Sonstige;Sonstige;Sonstige
+Sonstige;Sonstigee;Sonstige;Sonstige
